@@ -1,1 +1,4 @@
-/res_BMM
+tool.exe
+BUILD.bat
+build/
+BlamMonitorMaster.spec
